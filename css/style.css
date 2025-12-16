@@ -179,7 +179,7 @@ p,.text{
 	padding:0px 15px;
 	margin:0 auto;
 	display: flex;
-	justify-content: space-between;
+	justify-content: space-evenly;
 }
 
 .bread-crumb-auto-container{
