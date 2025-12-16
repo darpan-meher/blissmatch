@@ -1018,8 +1018,9 @@ img{
 
 .main-header .logo-box .logo img{
 	display:inline-block;
-	max-width:100%;
-	height: 50px;
+	/* max-width:100%; */
+	max-height: 49.33px;
+    max-width: 300px;
 	-webkit-transition:all 300ms ease;
 	-ms-transition:all 300ms ease;
 	-o-transition:all 300ms ease;
@@ -12053,7 +12054,7 @@ img{
 
 .register-section{
 	position:relative;
-	padding:130px 0px 130px;
+	/* padding: 130px 0px 130px; */
 }
 
 .register-section .form-box{
@@ -12301,7 +12302,6 @@ margin-left: -47px;
 }
 .page-title {
  padding: 20px 0;
- 
 }
 
 .speaker-detail {
