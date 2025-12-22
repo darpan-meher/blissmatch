@@ -1872,10 +1872,12 @@ img{
 
 .banner-section{
 	position: relative;
+	height: 600px;
 }
 
 .banner-carousel{
 	position: relative;
+	height: 600px;
 }
 
 .banner-carousel .slide-item{
@@ -1885,6 +1887,7 @@ img{
 	background-size: cover;
 	padding: 220px 0 100px;
 	text-align: center;
+	height: 600px;
 }
 
 .banner-carousel .slide-item:before{
@@ -1936,7 +1939,7 @@ img{
     line-height: 1.2em;
     color: #ffffff;
     font-weight: 700;
-	margin-bottom: 30px;
+	margin-top: 210px;
 	opacity: 0;
 	-webkit-transform: translateY(100px);
 	-moz-transform: translateY(100px);
@@ -10026,6 +10029,7 @@ img{
 .rtl .banner-conference .time-countdown,
 .rtl .styled-pagination,
 .rtl .owl-carousel{
+	height: 600px !important;
 	direction: ltr !important;
 }
 
